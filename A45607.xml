@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Harmony of ovr oathes shewing an agreement betwixt the oathes of supremacie, allegeance, the freemans oath, protestation and covenant : all publisht at large for the satisfaction of those who having not seen or not remembring the particulars therein contained beleeve and entertaine needlesse scruples concerning the same.</title>
+         </titleStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A45607</idno><idno type="EEBO-CITATION">12069913</idno>
+  <idno type="VID">53480</idno>
+  <idno type="EEBO-PROQUEST">2248530577</idno>
+  
+            <idno type="STC">Wing H801</idno>
+            <idno type="STC">ESTC R23490</idno>
+            <idno type="OCLC">12069913</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A45607)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 53480)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 239:E62, no 5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Harmony of ovr oathes shewing an agreement betwixt the oathes of supremacie, allegeance, the freemans oath, protestation and covenant : all publisht at large for the satisfaction of those who having not seen or not remembring the particulars therein contained beleeve and entertaine needlesse scruples concerning the same.</title>
+               </titleStmt>
+               <extent>[10] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T. Pain and M. Simonds for Thomas Vnderhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1643.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The covenant is the "Vow and covenant appointed by the Lords and Commons ... to be taken ... throughout the whole kingdom. June 1643."</note>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  Vow and covenant appointed by the Lords and Commons.</term>
+               <term type="topical_term">Oaths --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:53480:1"/>
+            <p>THE HARMONY OF OVR OATHES. SHEWING, An agreement betwixt the Oathes of Su<g ref="char:EOLhyphen"/>premacie, Allegeance, the Freemans Oath, Protestation and Covenant.</p>
+            <p>All publisht at large for the satisfaction of those, who having not seen, or not remembring the parti<g ref="char:EOLhyphen"/>culars therein contained, beleeve and entertaine needlesse Scruples concerning the same.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="imprimatur">
+                        <p>Imprimatur.</p>
+                        <closer>
+                           <signed>John White.</signed>
+                           <hi>This is licensed and entred according to order.</hi>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>T. Pain,</hi> and <hi>M. Simonds for Thomas Ʋnderhill.</hi> 1643.</p>
+         </div>
+      </front>
+      <body>
+         <div type="collection_of_oaths">
+            <pb facs="tcp:53480:2"/>
+            <pb facs="tcp:53480:2"/>
+            <head>The Oathes of Supremacie, Allegeance, and of every Free-man of the Citie of London, together with the Protestation and Covenant; Published all together for their satisfaction who for want of the knowledge of them, and yet beleeving false reports of them, doe raise and entertain needlesse Scruples about the Covenant.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE language of the Almighty speaketh things, not em<g ref="char:EOLhyphen"/>pty sounds: the whole creation were six mighty words, in the derivation of which Dialect, the heavens de<g ref="char:EOLhyphen"/>clare the glory of God, and the firmament sheweth his handy worke, one day speaketh to another, and one night instructeth another: There is no speech nor language where their voice is not heard, their sound is gone out into all lands, and their words into the ends of the world. Not he therfore that thinkes to be heard through much babbling, nor he that saith, Lord, Lord, speakes the language of Heaven; but he that doth the will of the Father which is in heaven. Though all our words were oathes, we cannot sweare our selves to heaven, nor blaspheme out selves into the true Religion, no not into common mot all honesty: Oathes may distinguish honest men from knaves, they cannot make them so. An ho<g ref="char:EOLhyphen"/>nest man sweares a just oath, because without an oath he meanes to do the thing he sweares. A knave is bound with nothing but impossibilities. Oathes that are just ingage no more then duty, and such as are not so, he sinneth twice that keeps them; who sweares a rebellion against God, hath sinned aloud, but he that keeps that oath, persists in sin. I swore, (as others did) allegeance to my Sove<g ref="char:EOLhyphen"/>raigne, which (if it be a lawfull oath) it neither mean, unlawfull allege<g ref="char:EOLhyphen"/>ance, nor unlawfull soveraignty: I am sure, I meant it not, that took the oath, nor was it my part to suspect that royall oath, that fastned at once three Crowns upon his Temples, to which my oath related, nor for to rivall the most high in judging of his thoughts, till outward words reveale them. And howsoever, let every man stand or fall to his owne Master. I will not question the abuse of So<g ref="char:EOLhyphen"/>veraignty, but if the King wanton with his Vicaridge, and usurps a power over me, to enlarge a rebellion against God, I am forbid to feare the power that one<g ref="char:EOLhyphen"/>ly
+<pb facs="tcp:53480:3"/>kills the body. He is my King and not my God; I am his subject, not hi<gap reason="illegible: blotted" extent="1 letter">
+                  <desc>•</desc>
+               </gap> creature. I am bound to the King by oath; to God I am bound by Oath, by Sa<g ref="char:EOLhyphen"/>craments, by all my being and well being: we must obey God before man. He that obeyes an inferiour Magistrate who dictates the commands of heaven, be<g ref="char:EOLhyphen"/>fore the powerfull Edicts of Kings who speake the contrary, obeyes the higher power. It is a grief of heart to see the madnesse of some people, and some sup<g ref="char:EOLhyphen"/>posed religious Divines, that take the report of the Oathes (which they are sworn to) from the mouthes of others, without examining the oathes them<g ref="char:EOLhyphen"/>selves, or the grounds published whereupon those oathes were made, whereby, whil'st they endevour to avoid perjury, they have made haste to be forsworne, and bring upon themselves and others swift damnation. And had the Oathes of Allegeance and Supremacie obliged us to the personall commands and actions of the Prince (which none in reason can affirm) yet ought the sense and resolu<g ref="char:EOLhyphen"/>tion be reflected on as well as words. He that in confidence of none but Popish impositions, and he that in like confidence of none but Protestant precepts, takes such oath, were each forsworn if they proved contrary to their resolutions; only the Atheist here escapeth perjury, that whether they held to th'one or th'other, is resolved to obey both or neither: yet that the Grammer of the oath relates not to the unconstant will and pleasure of the Prince, and that the scope of our Protestation and Covenant, thwart not the oathes of Allegeance and Suprema<g ref="char:EOLhyphen"/>cy, but concurre with them, we have in Christian compassion of each mans soule and conscience, caused all foure to be printed together, that each man may be judge of his own conscience, and not engage himself through ignorance into the periuries of many, who unawares through mistaken tendernesse of the Kings safety, are involved with Papists against their oathes, and against that safety of their Prince which they are sworn to.</p>
+            <p>
+               <hi>Read and beleeve.</hi>
+            </p>
+            <div type="oath">
+               <head>The Oath of Supremacie.</head>
+               <p>I <hi>A. B.</hi> do utterly testifie and declare in my conscience, That the Kings High<g ref="char:EOLhyphen"/>nesse is the onely supreme Governour of this Realme, and of all other his Highnes Dominiōs &amp; Countries, as wel in all spiritual &amp; Ecclesiastical things (or causes) as tēporall: And that no forraign Prince, Person, State, Prelate, Potentate, hath or ought to have any iurisdiction, power, superiority, preheminence or au<g ref="char:EOLhyphen"/>thority Ecclesiasticall or Spirituall within this realme. And therfore I do utterly renounce and forsake all forraigne iurisdictions, powers, superiorities, and autho<g ref="char:EOLhyphen"/>rities, and do promise that from henceforth I shall bear faith and true allegeance to the Kings highnesse, his heirs, and lawfull successors, and (to my power) shall assist and defend all iurisdiction, priviledge, preheminence &amp; authoritie granted or belonging to the Kings Highnesse his heires and successors, and united and annexed to the Imperiall Crown of this Realme. So help me God, &amp;c.</p>
+               <p>Observe 1. That the reason of framing this oath was, as appears by the words of
+<pb facs="tcp:53480:3"/>the Oath it self, &amp; of the precedent words of the Statute, <hi>To the intent all usurped and forraigne power and authority, spirituall and temporall may for ever be extinguished, and never to be used or obeyed within this Realme, or any other her Majesties Dominions or Countries: And that no forraigne Prince, Person, Prelate, State, or Potentate. spirituall or temporall, shall at any time after the last day of this Session of Parliament, use, enjoy, or exercise any manner of power, jurisdiction, superiority, authority, prehemi<g ref="char:EOLhyphen"/>nence, or priviledge spirituall or temporall, within this Realme, or within any other her Majesties Dominions and Countries, that now be, or hereafter shall be; but from hence<g ref="char:EOLhyphen"/>forth the same shall be clearly abolished out of this Realme, and other her Highnesse Do<g ref="char:EOLhyphen"/>minions for ever.</hi>
+               </p>
+               <p>By which it appeares, that those are in danger of perjury, who have taken this Oath, and yet side with that party which apparantly labour to bring in for<g ref="char:EOLhyphen"/>raigne power in causes Ecclesisticall, and not those who use all meanes to sup<g ref="char:EOLhyphen"/>presse it and all things else not really tending to the establishing of the Kings person and government, in honour, peace and safety.</p>
+               <p>The King is acknowledged supreme Governour, and no doubt but he is so, so long as that government contradicts not the supreme Law, which is the safety of the Kingdome; And so long as a King and his definition, which is his essence are terms convertible. But if either the makers or takers of this oath, had been asked when they made or tooke it, whether they meant the King was so supreme Governour. that his will as well as his office should be in all things here<g ref="char:EOLhyphen"/>after obeyed, though tending to the subversion of his Parliament or Kingdom. &amp; contrary to the mind of both: Doubtles their answer would have been; Such a thing is not to be conceived ever to happen: but if it should, wee intend no such thing by it, since <hi>ad eaquae frequentius a cidunt jura adaptantur:</hi> For the King in <hi>Curia</hi> is to be governour of his people, and not in <hi>Camera,</hi> much lesse in <hi>Campo.</hi>
+               </p>
+            </div>
+            <div type="oath">
+               <head>The Oath of Allegeance.</head>
+               <p>I <hi>A. B.</hi> do truly and sincerely acknowledge, professe, testifie and declare in my conscience before God and the world that our Soveraigne Lord, K<seg rend="sup">g</seg>
+                  <hi>Charles</hi> is lawfull and rightfull King of this Realm, and of all other his Maiesties Do<g ref="char:EOLhyphen"/>minions and Countries: And that the Pope neither of himselfe, nor by a<g ref="char:EOLhyphen"/>ny authority of the Church or See of Rome, or by any other meanes (with any other) hath any power or authority to depose the King, or to dispose any of his Maiesties Kingdomes or Dominions, or to authorize any forraigne Prince to invade or annoy him, or his Countries, or to discharge any of his Subiects of their allegeance and obedience to his Maiesty, or to give licence or leave to any of them to bear Arms, raise tumult, or to offer any violence or hurt to his Maie<g ref="char:EOLhyphen"/>sties Royall person, State, Government, or to any of his Maiesties subiects with<g ref="char:EOLhyphen"/>in his Maiesties Dominions. Also I do swear from my heart, that notwithstand<g ref="char:EOLhyphen"/>ing
+<gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:53480:4"/>
+                  <gap reason="duplicate" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:53480:4"/>
+                  <pb facs="tcp:53480:5"/>any Declaration of Sentence of excommunication, or Deprivation, made or granted, or to be made or granted by the Pope or his successors, or by any autho<g ref="char:EOLhyphen"/>rity derived or pretended to be derived from him, or his See, against the said King, his Heirs or Successors, or any absolution of the said subiects from their o<g ref="char:EOLhyphen"/>bedience: I will beat faith and time allegeance to his Maiesty, his Heirs and Successors, and him and them will defend to the uttermost of my power, against all conspiracies and attempts whatsoever, which shall be made against his or thier persons, their Crowne or Dignity, by reason or colour of any such Sen<g ref="char:EOLhyphen"/>tence or Declaration, or otherwise and will do my best endevour to disclose and make known unto his Maiesty, his Heirs and Successors, all treasons and trai<g ref="char:EOLhyphen"/>terous conspiracies, which I shall know or heare of to be against him or any of them. And I doe further swear. That I do from my heart abhorre, detest and abjure, as unpions and hereticall, this damnable doctrine and position, That Princes which be excommunicated, or deprived by the Pope, may be deposed, or murdered of their subiects, or any other whatsoever. And I doe beleeve, and in conscience am resolved, That neither the Pope, nor any other person what<g ref="char:EOLhyphen"/>soever, hath power, to absolve me of this oath, or any part thereof, which I ac<g ref="char:EOLhyphen"/>knowledge by good and full authoritie to be lawfully ministred unto me, and do renounce all pardons and dispensations to the contrary. And these things I doe plainly and sincerely acknowledge and swear according to these expresse words, by me spoken, and according to the plain and common sense and understanding of the same words, without any equivocation or mentall evasion or secret reser<g ref="char:EOLhyphen"/>vation whatsoever. And I do make this recognition and acknowledgement, heartily willingly and truly, upon the true faith of a Christian. So help me God.</p>
+            </div>
+            <div type="protestation">
+               <head>
+                  <hi>The Protestation.</hi> Die Mercurii, 5 Maii 1641.</head>
+               <p>
+                  <hi>I A. B.</hi> Doe in the presence of Almighty God, promise, vow, and protest, to main<g ref="char:EOLhyphen"/>tain and defend, as farre as lawfully I may, with my life, power and estate, the true reformed Protestant Religion, expressed in the Doctrine of the Church of England, a<g ref="char:EOLhyphen"/>gainst all Popery and Popish Innovations within this Realme, contrary to the same Doctrine, and according to the duty of my Allegeance, his Majesties Royall Person, Ho<g ref="char:EOLhyphen"/>nour and Estate; As also the Power and Priviledges of Parliament; The lawfull Rights and Liberties of the Subject, and every person that maketh this Protestation, in whatsoe<g ref="char:EOLhyphen"/>ver he shall doe in the lawfull pursuance of the same. And to my power, and as farre as lawfully I may, I will oppose, and by all good wayes and meanes endeavour to bring to con<g ref="char:EOLhyphen"/>digne punishment, all such as shall either by force, practice, counsels, plots, conspiracies, or otherwise, doe any thing to the contrary of any thing in this present Protestation contai<g ref="char:EOLhyphen"/>ned. And further, that I shall in all just and honourable wayes indevour to preserue the union and peace between the three Kindomes of England, Scotland and Ireland; And nei<g ref="char:EOLhyphen"/>ther for hope, fear, or other respect, shall relinquish this Promise, Vow and Protestation.</p>
+               <pb facs="tcp:53480:5"/>
+               <p> VVHereas some doubts have been raised by severall persons out of this House, concerning the meaning of these words contained in the Prote<g ref="char:EOLunhyphen"/>station lately made by the members of this House, <hi>(viz.) The true Reformed Protestant Religion, expressed in the Doctrine of the Church of England, against all Popery and Popish Innovations within this Realme, contrary to the same Doctrine,</hi> This House doth declare, That by those words, was and is meant, onely the publick Doctrine professed in the said Church, so farre as it is opposite to Popery and Popish Innovations; And that the said words are not to be extended to the maintaining of any form of Worship Discipline or Government, nor of any Rites or Ceremonies of the said Church of England.</p>
+            </div>
+            <div type="oath">
+               <head>The Oath of every Free-man of the City of London.</head>
+               <p>YE shall sweare that ye shall be <note n="*" place="margin">Who a better &amp; truer Subject, then he that would unite King and Parliament, have judge<g ref="char:EOLhyphen"/>ment executed upon Delinquents, and righ<g ref="char:EOLhyphen"/>teousnesse about his Throne.</note> good and true to our Soveraigne Lord K<seg rend="sup">g</seg>
+                  <hi>Charles,</hi> and to the Heirs of our said Soveraigne Lord the King. Obeysant and obedi<g ref="char:EOLhyphen"/>ent ye shall be to the Maior and Ministers of this City. The Franchises and Customes thereof ye shall maintain, and this Citie keep harmlesse in that that in you is. Ye shall be con<g ref="char:EOLhyphen"/>tributary to all manner of charges within this Citie, as Sum<g ref="char:EOLhyphen"/>mons, Watches, Contributions, Taxes, Tallages, Lot and Scot, and to all other charges bearing your part as a Free man ought to do. Ye shall colour no For<g ref="char:EOLhyphen"/>raigne goods, under or in your name, whereby the King or this Citie might or may lose their customes or advantages. Ye shall know no Forraigner to buy or sell any Merchandize with any other Forraigner within this Citie or Franchise thereof, but ye shall warn the Chamberlain thereof, or some Minister of the Chamber. Ye shall implead or sue no Free-man our of this Citie, whiles ye may have right and law within the same Citie. Ye shall take none Apprentice, but if he be free-born that is to say) no bondmans son, nor the child of any Alien, and for no lesse terme then for 7 years, without fraud or decen: and within the first year ye shall cause him to be enrolled, or else pay such fine as shall be reasonably imposed upon you for omitting the same. And after his terms end, within con<g ref="char:EOLhyphen"/>venient time (being required) ye shall make him free of this Cine, if he have well and truly served you. Ye shall also keep the Kings<note n="*" place="margin">1. The kings peace is the Kingdoms peace, &amp; if this bee broken, that is not kept.
+<p n="2">2. That is not the Kings peace which procures the King<g ref="char:EOLhyphen"/>domes desolation.</p>
+                  </note> peace in your own person. Ye shall know no Gatherings, Conven<g ref="char:EOLhyphen"/>venticles, nor Conspiracies made against the Kings Peace, but ye shall warn the Maior thereof, or let it to your power.</p>
+               <p>All these Points and Articles yee shall well and truly keep according to the Lawes and Customes of this Citie, to your power. So help you God.</p>
+            </div>
+            <div type="vow">
+               <pb facs="tcp:53480:6"/>
+               <head>The Vow &amp; Covenant appointed by the Lords and Commons assembled in Parliame<gap reason="illegible: blotted" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> to be taken by every man in the City of London, Westminster, the Suburbs and Liberties thereof; and throughout the whole Kingdom. <hi>June 1643.</hi>
+               </head>
+               <p>I <hi>A. B.</hi> in humility and reverence of the Divine Majesty, declare my hearty sorrow for my own sins, and the sins of this nation, which have deserved the calamities and judgements that now lye upon it. And my true intention is, by Gods grace, to endeavour the amendment of my own wayes. And that I do abhor and detest the said wicked and treacherous designe lately discovered; and that I never gave, not will give my assent to the execution thereof; but will, ac<g ref="char:EOLhyphen"/>cording to my power and vocation, oppose and resist the same, and all other of the like nature. And in case any other like designe shall hereafter come to my knowledge, I will make such timely discovery, as I shall conceive may best con<g ref="char:EOLhyphen"/>duce to the preventing thereof. And whereas I do in my conscience beleeve, that the Forces raised by the two Houses of Parliament, are raised &amp; continued for their just defence, and for the defence of the true Protestant Religion, and liber<g ref="char:EOLhyphen"/>ties of the subject, against the forces raised by the King; I do here in the pre<g ref="char:EOLhyphen"/>sence of Almighty God, declare, vow and covenant, that I will, according to my power &amp; vocation, assist the forces raised and continued by both Houses of Par<g ref="char:EOLhyphen"/>liament against the forces raised by the King without their consent. And will likewise assist all other persons that shall take this oath, in what they shall doe in pursuance thereof: and will not directly or indirectly adhere unto, nor shall wil<g ref="char:EOLhyphen"/>lingly assist the forces raised by the King, without the consent of both House<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of Parliament. And this vow and covenannt I make in the presence of Almighty God, the searcher of all hearts, with a true intention to performe th<gap reason="illegible: blotted" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> same, as I shall answer at the great day, when the secrets of all hearts shall be dis<g ref="char:EOLhyphen"/>closed.</p>
+               <p>Object. <hi>The Kings person is not named in this Covenant to be defended by us.</hi>
+               </p>
+               <p>Ans. 1. <hi>He was named in the Protestation, and therefore not here again to be named.</hi> 2. <hi>The scop<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> of this Covenant would not fit such an expression; though his person be by no means here excluded, but rather included by these words,</hi> Against the forces raised by the King, <hi>not against the King himselfe. And however in the judgement of charity, silence doth give consent where nothing <gap reason="illegible: blotted" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> expressed against his person.</hi> 3. <hi>Nothing at all is here directly covenanted, which is directly and expresly in the Protestation.</hi> 4. <hi>Who is greatest enemy to the Kings person? He that would onely lay hands upon him, as the Angell upon</hi> Lot, <hi>to invite him from Sodom, or he that voluntarily brings him into certain danger, and might prevent it?</hi>
+               </p>
+               <p>Ob. <hi>He that opposeth the forces raised by the King, doth not be oppose the King himselfe?</hi>
+               </p>
+               <p>Ans. <hi>If the good of the King, the Office of a King, and the will of a King be all p<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>iscuously taken, then the consequence will hold; but yet it only followes by a fallacy of the accident, or by plating</hi> subjectum quod, <hi>for</hi> subjectum quo. <hi>The Royalist will say, it is easie to imagine a man fighting fo<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> a Papist, and entertaing an army of Papists, and yet not any of this in defence of Popery (which in deed is more easie t<gap reason="illegible: blotted" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> conceive, then that Papists should not fight for absolute Popery, or an unlimi<g ref="char:EOLhyphen"/>ted toleration: And yet he will not understand how a man may fight for the King, and against the forces raised by the King. The Pope was once called honest, and</hi> Iulian <hi>in the mean time stiled without con<gap reason="illegible: blotted" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>diction, by a courser name.</hi> Ephestion <hi>that loved the King, was a better friend them</hi> Crateron <hi>that loved but</hi> Alexander, and yet all made but two men, Pope <hi>Iulian</hi> and K. <hi>Alexander.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
